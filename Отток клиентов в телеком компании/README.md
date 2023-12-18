@@ -10,33 +10,23 @@
 
 - **pandas**
 - **numpy**
-
 - **matplotlib**
 - **seaborn**
-
 - **sweetviz**
-
+- **time**
 - **phik.report.plot_correlation_matrix**
-
-
 - **scikit-learn**
-
 - **sklearn.pipeline.Pipeline**
 - **sklearn.compose.column_transformer**
 - **sklearn.preprocessing.OneHotEncoder**
 - **sklearn.preprocessing.StandardScaler**
-
 - **sklearn.model_selection.StratifiedKFold**
 - **sklearn.model_selection.GridSearchCV**
-
-- **sklearn.tree.DecisionTreeRegressor**
-- **sklearn.ensemble.RandomForestRegressor**
-- **sklearn.linear_model.LinearRegression**
-
+- **sklearn.tree.DecisionTreeClassifier**
+- **sklearn.ensemble.RandomForestClassifier**
+- **sklearn.linear_model.LogisticRegression**
 - **lightgbm.LGBMClassifier**
 - **catboost.CatBoostClassifier**
-
-- **time**
 
 
 ## Вывод по итогам исследования
