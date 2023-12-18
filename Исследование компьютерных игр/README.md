@@ -11,12 +11,10 @@
 - **pandas**
 - **numpy**
 - **scipy**
-
 - **matplotlib**
 - **seaborn**
-
-- **EDA**
 - **Feature engineering**
+- **EDA**
 
 
 ## Вывод по итогам исследования:
