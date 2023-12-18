@@ -10,18 +10,14 @@
 
 - **pandas**
 - **numpy**
-
 - **matplotlib**
 - **seaborn**
-
 - **sweetviz**
-
 - **scikit-learn**
-
-- **sklearn.metrics.mean_squared_error**
-- **sklearn.metrics.mean_absolute_error**
 - **sklearn.preprocessing.StandardScaler**
 - **sklearn.model_selection.GridSearchCV**
+- **sklearn.metrics.mean_squared_error**
+- **sklearn.metrics.mean_absolute_error**
 - **sklearn.tree.DecisionTreeRegressor**
 - **sklearn.ensemble.RandomForestRegressor**
 - **sklearn.linear_model.LinearRegression**
